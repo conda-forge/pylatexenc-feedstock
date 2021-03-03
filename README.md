@@ -5,11 +5,13 @@ Home: https://github.com/phfaist/pylatexenc
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pylatexenc-feedstock/blob/master/LICENSE.txt)
 
 Summary: Simple LaTeX parser providing latex-to-unicode and unicode-to-latex conversion
 
+Development: https://github.com/phfaist/pylatexenc
 
+Documentation: https://pylatexenc.readthedocs.io/en/latest
 
 Current build status
 ====================
